@@ -1,4 +1,5 @@
+## September 14, 2015
+
 # Hello World
 
-Just for practice# hello-world2
-# hello-world2
+Just for practice
